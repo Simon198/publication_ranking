@@ -1,7 +1,7 @@
 # Publication Ranking
 A small python script to check the ranking of publications.
 
-The rankings are parsed from the plattforms [Core](https://www.core.edu.au/) & [TSV](https://www.tsv.fi/)
+The rankings are parsed from the plattforms [Core](https://www.core.edu.au/) & [TSV](https://www.tsv.fi/).
 The best ranking Core gives is a A*. The best ranking TSV gives is 3.
 
 ## Presettings
